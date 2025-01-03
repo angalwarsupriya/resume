@@ -12,8 +12,12 @@
     background-color: rgb(154, 154, 154);
     border-radius: 2px;
 }
+.skills-desplay-con{
+    margin-top: 40px;
+}
 .con{
     margin-bottom: 30px;
+
 }
 .skill-p{
     text-align: left;
@@ -28,4 +32,20 @@
     background-color: rgb(255, 132, 0);
     position: relative;
     bottom: 6px;
+}
+h6{
+    font-size: 18px;
+    color: rgb(202, 202, 202);
+    margin-bottom: 10px;
+    color:rgb(255, 132, 0);
+}
+
+.skill-name{
+    font-size: 15px;
+    color: rgb(163, 163, 163);
+
+}
+.individual-skills-con{
+    width: 100%;
+    padding-left: 50px;
 }

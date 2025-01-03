@@ -26,7 +26,7 @@ function Contact() {
             </div>
               
             <div className='row'>
-              <CiLinkedin  className='icon'/>
+              <CiLinkedin  className='icon-linkdin'/>
               <a className='p'>linkedin.com/in/supriyaangalwar/</a>
             </div>
               

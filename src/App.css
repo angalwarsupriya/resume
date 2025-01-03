@@ -1,6 +1,5 @@
 #root {
   margin: 0 auto;
-  text-align: center;
   padding: 2rem;
 }
 
@@ -42,4 +41,7 @@
 
 .main-con{
   display: flex;
+}
+h4{
+  margin: 0px;
 }

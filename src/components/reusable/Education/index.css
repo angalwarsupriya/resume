@@ -1,0 +1,34 @@
+.education-bg-con{
+    width:100%;
+}
+.education-row-con{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.left-deatils{
+    width: 50%;
+}
+.right-deatils{
+    width:50%;
+}
+.educatio-details-p{
+    margin: 0px;
+    color: rgb(118, 117, 117);
+}
+h5{
+    margin: 0px;
+    color: black;
+}
+.duration-hea{
+    font-size: 16px;
+    color: black;
+    margin: 0px;
+}
+
+.grade{
+    margin: 0px;
+    color: rgb(152, 151, 150);
+}
