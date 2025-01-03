@@ -1,0 +1,31 @@
+.skills-bg-con{
+    height: 30vh;
+    width: 100%;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.percentage-row{
+    height: 3px;
+    width:300px;
+    background-color: rgb(154, 154, 154);
+    border-radius: 2px;
+}
+.con{
+    margin-bottom: 30px;
+}
+.skill-p{
+    text-align: left;
+    margin-bottom: 10px;
+    color: rgb(214, 213, 213);
+    font-size: 13px;
+}
+.dot{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: rgb(255, 132, 0);
+    position: relative;
+    bottom: 6px;
+}
