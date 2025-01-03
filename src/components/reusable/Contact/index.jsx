@@ -22,7 +22,7 @@ function Contact() {
               
             <div className='row'>
                <IoCallOutline className='icon'/>
-              <a className='p'>+(91) 9676069482</a>
+              <a className='p'>(91)+ 9676069482</a>
             </div>
               
             <div className='row'>

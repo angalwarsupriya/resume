@@ -1,7 +1,7 @@
 .home-bar-bg-con{
-    height: 250vh;
+    height: 280vh;
     width: 60vw;
-    background-color: rgb(236, 234, 234);
+    background-color: rgb(237, 236, 236);
     display:flex ;
     align-items: center;
     justify-content: center;
@@ -14,20 +14,33 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: space-between;
     box-sizing: border-box;
-    padding: 20px;
-
+    
+}
+.img-con{
+    height: 25vh;
+    width: 100%;
+}
+.bottom-img{
+    height: 100%;
+    width: 100%;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
 }
 .titlebg-con{
     display: flex;
     align-items: center;
 }
-.round-con{
-    height: 150px;
-    width: 150px;
-    border-radius: 50%;
-    background-color: rgb(254, 195, 18);
+.top-con{
+    background-color: transparent;
 }
+.round-con{
+    height: 200px;
+    width: 200px;
+    margin-right: 30px;
+}
+
 .title-con{
     height: 100px;
     width: 600px;
@@ -36,7 +49,11 @@
     align-items: start;
     justify-content: start;
     padding-left: 20px;
-
+    margin-top: 30px;
+}
+.logo{
+    height: 100%;
+    width: 100%;
 }
 h1{
     color:  rgb(254, 195, 18);
@@ -52,13 +69,16 @@ h1{
 
 .summary-con{
     height: 25vh;
-    width: 100%;
+    width: 90%;
     display: flex;
     flex-direction: column;
     align-items: start;
     justify-content: start;
     margin-top: 60px;
+    margin-left: 30px;
+    
 }
+
 h4{
     font-size: 28px;
     font-weight:bold;

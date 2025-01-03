@@ -1,6 +1,5 @@
 #root {
   margin: 0 auto;
-  padding: 2rem;
 }
 
 .logo {
@@ -44,4 +43,15 @@
 }
 h4{
   margin: 0px;
+}
+
+.main-con{
+  height: 300vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url('background.jpg');
+  background-size: cover;
+  background-color: aqua;
 }

@@ -8,8 +8,11 @@ function Home() {
   return (
     <section className='home-bar-bg-con'>
       <div className='border-con'>
+        <div className='top-con'>
         <div className='titlebg-con'>
-          <div className='round-con'></div>
+            <div className='round-con'>
+              <img src='logo.png' alt='logo' className='logo'/>
+          </div>
           <div className="title-con">
             <h1>Supriya <span>Angalwar</span></h1>
             <h3 className='role'>Frontend Developer</h3>
@@ -26,7 +29,11 @@ function Home() {
         </summary>
          
         <Education/>
-        <Projects/>
+          <Projects />
+        </div>
+        <div className='img-con'>
+          <img src='bottom-design.png' alt='bottom design' className='bottom-img'/>
+        </div>
       </div>
     </section>
   )

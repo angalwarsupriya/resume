@@ -1,5 +1,5 @@
 .side-bar-bg-con{
-    height: 240vh;
+    height: 270vh;
     width: 30vw;
     background-color: rgb(46, 46, 46);
     display: flex;
@@ -8,7 +8,7 @@
     padding-top: 5%;
 }
 .profile-img-con{
-    height: 15%;
+    height: 13%;
     width: 59%;
     border-radius: 50%;
     border: 8px solid rgb(255, 123, 0);

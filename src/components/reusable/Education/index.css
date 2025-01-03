@@ -1,5 +1,7 @@
 .education-bg-con{
-    width:100%;
+    width:90%;
+    margin-left: 30px;
+
 }
 .education-row-con{
     display: flex;
